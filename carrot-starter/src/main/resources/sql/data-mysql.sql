@@ -1,0 +1,1 @@
+INSERT INTO `sys_user` VALUES ('666', '超级管理员', 'rabbit', '$2a$10$c3hpSZTfcHSAR1W6Xb9rge6wyZ9zNSvisCM9HftTUfCs9tm8YpAjC', '男', '18876015529', '0', 'luohong_studio@163.com', '2019-04-24 15:20:26.000000', '2019-04-24 15:20:31.000000')  ON DUPLICATE KEY UPDATE id= '666';

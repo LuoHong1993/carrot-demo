@@ -1,0 +1,13 @@
+${AnsiColor.YELLOW}
+ ,-----.      ,---.      ,------.     ,------.      ,-----.     ,--------.
+'  .--./     /  O  \     |  .--. '    |  .--. '    '  .-.  '    '--.  .--'
+|  |        |  .-.  |    |  '--'.'    |  '--'.'    |  | |  |       |  |
+'  '--'\    |  | |  |    |  |\  \     |  |\  \     '  '-'  '       |  |
+ `-----'    `--' `--'    `--' '--'    `--' '--'     `-----'        `--'
+${AnsiColor.CYAN}
+${spring.application.name} version::${tech.iboot.version}                 ${AnsiColor.GREEN}springbootVersion::${spring-boot.version}
+${AnsiColor.BLUE}
+                     Welcome to use, good luck!!!
+${AnsiColor.BRIGHT_RED}
+https://github.com/LuoHong1993   Email::luohong@iboot.tech  https://iboot.tech
+${AnsiColor.DEFAULT}
